@@ -9,6 +9,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![API](https://img.shields.io/badge/API-Free%20Open%20Data-9cf?style=flat-square&logo=meme)
 
+[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/Meme-Explorer/)
+
 ## 📌 Overview  
 
 **Meme Explorer** is a **fun, interactive web application** that allows users to **fetch and display the latest trending memes** from various sources using **free open-data APIs**.  
