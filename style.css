@@ -1,0 +1,46 @@
+/* EN: Basic styling for body and main container 
+         IT: Stili base per il body e il container principale */
+    body {
+      background-color: #f8f9fa;
+      padding-top: 40px;
+      padding-bottom: 80px;
+    }
+    .container {
+      max-width: 1000px;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    /* EN: Style for the "Load More Memes" button 
+         IT: Stile per il pulsante "Carica altri meme" */
+    #loadMoreBtn {
+      margin: 20px auto;
+      display: block;
+    }
+    /* EN: Card styling for each meme 
+         IT: Stili per le card di ciascun meme */
+    .meme-card {
+      margin-bottom: 20px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    .meme-card img {
+      max-height: 400px;
+      object-fit: cover;
+    }
+    .like-btn {
+      cursor: pointer;
+    }
+    /* EN: Fixed footer styling 
+         IT: Stile per il footer fisso */
+    footer {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: #343a40;
+      color: #ffffff;
+      text-align: center;
+      padding: 10px 0;
+      font-size: 0.9rem;
+    }
