@@ -54,3 +54,4 @@ Meme Explorer integrates **free open-data APIs** that provide **a curated select
 Meme Explorer is **open-source** and welcomes contributions!  
 📌 Report issues or feature requests via [GitHub Issues](https://github.com/bocaletto-luca/meme-explorer/issues).  
 🔧 Fork the repository and submit pull requests to improve functionality. 
+@bocaletto-luca
